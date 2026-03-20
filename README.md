@@ -67,26 +67,34 @@ To do:
 - 
 
 
+## 3D
 
-Download:
-Free:
-[<img width="597" height="526" alt="image" src="https://github.com/user-attachments/assets/f49143e3-78e3-48b6-bae4-88fb7fd0e39c" />](https://sketchfab.com/3d-models/microbit-assemby-f0c6ec58eefc47afaab08d8de07e1158#download)  
-- https://cults3d.com/en/3d-model/gadget/micro-bit-pequicraftminecraft
-- https://sketchfab.com/3d-models/microbit-assemby-f0c6ec58eefc47afaab08d8de07e1158#download
+Vous avez a disposition deux models.
 
-Buy:
+Celui-ci qui est gratuit mais approximatif:
+Il est en CC je l'ai donc mis dans le projet en gardant la license.
+[<img width="597" height="526" alt="image" src="https://github.com/user-attachments/assets/f49143e3-78e3-48b6-bae4-88fb7fd0e39c" />](https://sketchfab.com/3d-models/microbit-assemby-f0c6ec58eefc47afaab08d8de07e1158#download)     
+[Cult3D](https://cults3d.com/en/3d-model/gadget/micro-bit-pequicraftminecraft) - [SketchFab](https://sketchfab.com/3d-models/microbit-assemby-f0c6ec58eefc47afaab08d8de07e1158#download)   
 
+Et il y a une version fait la suieur de son frond par [@sitetechnofr](https://cults3d.com/en/users/sitetechnofr/3d-models):
 [<img width="1272" height="623" alt="image" src="https://github.com/user-attachments/assets/77b3d3b4-f592-4fdf-9c48-8c1edbd8615e" />](https://sketchfab.com/3d-models/microbit-v2-759eb0f3db0d44d5a7ea80d4ae00580e)    
 [<img width="926" height="599" alt="image" src="https://github.com/user-attachments/assets/65bf2a22-e685-43e6-a0a4-6368b75d029f" />](https://sketchfab.com/3d-models/microbit-v2-759eb0f3db0d44d5a7ea80d4ae00580e)    
-Buy: https://cults3d.com/en/3d-model/various/micro-bit-v2  
+<img width="1090" height="697" alt="image" src="https://github.com/user-attachments/assets/79e08459-a4f7-41b8-a450-8f13bd78e6ed" />
+
+Buy: [Cult3D](https://cults3d.com/en/3d-model/various/micro-bit-v2)   
+
+## SVG
+
+MicroBit fournit des beaux SVG et image du MicroBit V2.
+[<img width="971" height="625" alt="image" src="https://github.com/user-attachments/assets/9048e1c5-c50d-4357-b94d-5d2dc7a624d3" />](https://microbit.org/design-your-microbit/v2/)    
+[<img width="1125" height="510" alt="image" src="https://github.com/user-attachments/assets/e82f9ec1-d65c-480f-b7ff-bc56cfdebb8e" />](https://microbit.org/design-your-microbit/v2/)  
+[Site Web officiel](https://microbit.org/design-your-microbit/v2/) - [GitHub](https://github.com/microbit-foundation/microbit-svg)     
 
 
-
-Bonus:
+# Un moteur et des roues ?
+Si vous avez envie de faire un petit jeux de voiture avec votre prototype, ce moteur et un des plus acheter sur le web:
 [<img width="516" height="516" alt="image" src="https://github.com/user-attachments/assets/b0afd70e-f8aa-4999-b73f-7a944e3b7a9a" />](https://cults3d.com/en/3d-model/gadget/zdkderphb)   
 https://cults3d.com/en/3d-model/gadget/zdkderphb  
-
-
 
 -----------
 
