@@ -177,12 +177,24 @@ Voici les actions disponibles pour les enfants dans Scratch
 
 # Challenge de bourrin ;)
 
-Créer une communication Bluetooth entre le Micro:bit et votre Quest 3.
+Créer une communication Bluetooth entre le Micro:bit et votre Quest 3.  
 
-C’est du vrai portfolio.
+C’est du vrai portfolio.  
 
-Si vous réussissez cet exercice en plus de connecter le casque en Bluetooth avec votre simulateur…
-GG, vous serez adoré·e dans la communauté Scratch ;)
+Si vous réussissez cet exercice en plus de connecter le casque en Bluetooth avec votre simulateur…   
+GG, vous serez adoré·e dans la communauté Scratch ;)   
 
+
+-------------
+
+
+
+# Acheter un Micro:bit ?
+
+[<img width="1391" height="468" alt="image" src="https://github.com/user-attachments/assets/5e5d86d8-f402-4b26-bd5e-e642f769e0ec" />](https://www.kiwi-electronics.com/nl/bbc-microbit-v2-2-go-bundel-10260)    
+https://www.kiwi-electronics.com/nl/bbc-microbit-v2-2-go-bundel-10260    
+
+[<img width="1206" height="710" alt="image" src="https://github.com/user-attachments/assets/db1229e6-06f4-468f-9209-8415c01e0da5" />](https://www.amazon.com.be/-/en/KEYESTUDIO-Microbit-Sensor-Starter-except/dp/B07GSVHWNS/)    
+https://www.amazon.com.be/-/en/KEYESTUDIO-Microbit-Sensor-Starter-except/dp/B07GSVHWNS/    
 
 
