@@ -51,9 +51,7 @@ vous devez avoir, à la fin de l’atelier :
 * Un projet Godot non-XR pour travailler sur l’addon sans casque (privé)
 * Un addon micro:bit en submodule, utilisable par d’autres développeurs (non-XR) (public)
 * Un addon d’exemple en submodule, référant votre addon et Godot XR Tools (public)
-
   * Une utilisation minimale de :
-
     * Pick up
     * Snap
     * Attraper à distance
