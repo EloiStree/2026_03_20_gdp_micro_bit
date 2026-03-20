@@ -1,7 +1,13 @@
 
+
 # Godot Package: Micro bit
 
 > Workshop for Godot XR students: Try to recreate a Micro:bit API in XR
+
+Download 3D & SVG:  
+[microbit_3d_and_svg.zip](https://github.com/user-attachments/files/26150152/microbit_3d_and_svg.zip)  
+
+
 
 Dans le cadre de l’apprentissage de la programmation avec Godot et du développement d’applications XR orientées industrie (hors jeu vidéo),
 je vous propose un exercice « simple » :
