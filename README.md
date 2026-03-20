@@ -1,27 +1,76 @@
 
 # Godot Package: Micro bit
 
-> Workshop for Godot XR students: Try to recreate a MicroBit API in XR    
+> Workshop for Godot XR students: Try to recreate a Micro:bit API in XR
 
-Dans le contexte d’apprendre à coder avec Godot et de créer des applications avec Godot XR Tools,     
-je vous propose un exercice "simple" :    
+Dans le cadre de l’apprentissage de la programmation avec Godot et du développement d’applications XR orientées industrie (hors jeu vidéo),
+je vous propose un exercice « simple » :
 
-Vous avez un GLB du micro:bit. Ajoutez, couche par couche, des fonctionnalités pour simuler le Micro:bit.     
+Vous avez un GLB du micro:bit.
+Ajoutez, couche par couche, des fonctionnalités pour le simuler.
 
-C’est une demande typique dans le marché de la VR.     
-Nous avons cet appareil à 10 000 $ dans un laboratoire, qui prend 3 jours à utiliser et coûte 400 $ à chaque test.    
-Sans compter le temps d’un senior qui doit enseigner à la nouvelle recrue.    
+C’est une demande typique sur le marché de la VR, example:
 
-Permettre à nos employés de s’entraîner sur la machine avant de l’utiliser réellement.   
+> Cet appareil à 10 000 $ dans un laboratoire prend 3 jours à utiliser et coûte 400 $ à chaque test.
+> Sans compter le temps d’un senior qui doit former la nouvelle recrue.
+> Permettre aux employés de s’entraîner sur la machine avant de l’utiliser réellement.
+> (C’est aussi généralement accompagné de télémétrie pour observer l’apprenant.)
 
-Nous allons pratiquer sur un appareil très connu : le Micro:bit.     
+Nous allons pratiquer sur un appareil très connu : le Micro:bit.
+[<img width="628" height="271" alt="image" src="https://github.com/user-attachments/assets/e2037301-551d-49f7-ba7a-87f037affba0" /> ](https://python.microbit.org/v/3)
 
-Arrêtez-vous quand vous en avez marre,   
-mais fixez-vous le challenge de publier l’application sur Itch.io   
-dans une version portfolio finie avant la fin de l’atelier.   
+Éditeurs :
 
-Sachez travailler par couches de MVP.   
-Votre jeu doit être jouable en APK à chaque fin d’atelier.   
+* [Python Editor](https://python.microbit.org/v/3)
+* [Microsoft Block Editor](https://makecode.microbit.org)
+
+Arrêtez-vous quand vous en avez marre,
+mais fixez-vous le challenge de publier l’application sur Itch.io
+dans une version portfolio finalisée avant la fin de l’atelier.
+
+
+Apprenez à travailler par couches de MVP.
+Votre application doit être jouable en APK à chaque fin d’atelier.
+
+C'est un exercice à faire seul
+pour les parties faciles du projet.
+
+Vous devrez vous mettre en groupe pour les parties plus compliquées :
+température, batterie, gyroscope, accéléromètre, sandbox…
+
+Sur ce, bonne chance. 🍀🫡
+Et que le code soit avec vous 🧨
+
+
+-------------
+
+Si vous êtes en présentiel dans mon cours,
+vous devez avoir, à la fin de l’atelier :
+
+* Un projet Godot XR d’exemple sur GitHub (privé/public)
+* Un projet Godot non-XR pour travailler sur l’addon sans casque (privé)
+* Un addon micro:bit en submodule, utilisable par d’autres développeurs (non-XR) (public)
+* Un addon d’exemple en submodule, référant votre addon et Godot XR Tools (public)
+
+  * Une utilisation minimale de :
+
+    * Pick up
+    * Snap
+    * Attraper à distance
+* Un compte Itch.io avec une page pour votre portfolio de fin d’atelier
+
+
+Ma solution se trouve dans la branche suivante :
+[To Add]
+
+Une branche vide avec le minimum nécessaire se trouve ici :
+[To Add]
+
+Vidéos step-by-step ici :
+[https://www.youtube.com/@EloiTeaching/search?query=Micro](https://www.youtube.com/@EloiTeaching/search?query=Micro)
+
+
+
 
 ---
 
