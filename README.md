@@ -1,11 +1,11 @@
 
 
+---------------
+
+
 # Godot Package: Micro bit
 
 > Workshop for Godot XR students: Try to recreate a Micro:bit API in XR
-
-Download 3D & SVG:  
-[microbit_3d_and_svg.zip](https://github.com/user-attachments/files/26150152/microbit_3d_and_svg.zip)  
 
 
 
@@ -24,6 +24,10 @@ C’est une demande typique sur le marché de la VR, example:
 
 Nous allons pratiquer sur un appareil très connu : le Micro:bit.
 [<img width="628" height="271" alt="image" src="https://github.com/user-attachments/assets/e2037301-551d-49f7-ba7a-87f037affba0" /> ](https://python.microbit.org/v/3)
+
+Download assets:
+- [microbit_3d_and_svg.zip](https://github.com/user-attachments/files/26150152/microbit_3d_and_svg.zip)  
+
 
 Éditeurs :
 
