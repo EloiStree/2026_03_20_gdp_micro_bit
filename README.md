@@ -154,3 +154,37 @@ Si vous avez envie de faire un petit jeu de voiture avec votre prototype, ce mot
 [<img width="516" height="516" alt="image" src="https://github.com/user-attachments/assets/b0afd70e-f8aa-4999-b73f-7a944e3b7a9a" />](https://cults3d.com/en/3d-model/gadget/zdkderphb)     
 [https://cults3d.com/en/3d-model/gadget/zdkderphb](https://cults3d.com/en/3d-model/gadget/zdkderphb)     
 
+
+
+--------
+
+## Micro:Bit dans Scratch
+
+Pour vous inspirer des fonctionnalités à créer avec votre Micro:Bit virtuel :
+Voici les actions disponibles pour les enfants dans Scratch
+
+<img width="572" height="496" alt="image" src="https://github.com/user-attachments/assets/e8bd4620-c4af-475a-8480-4dae1712a95f" />
+
+* When A, B, or Any button pressed
+* Display Icon
+* When pin 0, 1, or 2 connected (touched)
+* Clear Display
+* When tilted (Front, Left, Right, Back)
+* Variable: tilt angle (Front, Left, Right, Back)
+* Condition:
+  * A, B button pressed
+  * Is tilt (Front, Left, Right, Back)?
+
+---------------
+
+# Challenge de bourrin ;)
+
+Créer une communication Bluetooth entre le Micro:bit et votre Quest 3.
+
+C’est du vrai portfolio.
+
+Si vous réussissez cet exercice en plus de connecter le casque en Bluetooth avec votre simulateur…
+GG, vous serez adoré·e dans la communauté Scratch ;)
+
+
+
