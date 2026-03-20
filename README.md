@@ -12,7 +12,53 @@ git clone https://github.com/EloiStree/2026_03_20_gdp_micro_bit.git addons/2026_
 -------------
 
 # 2026_03_20_gdp_micro_bit
-Workshop for Godot XR students: Try to recreate a MicroBit API in XR
+
+> Workshop for Godot XR students: Try to recreate a MicroBit API in XR
+
+
+L exercie est simple. Vous avez un GLB du micro bit, ajouter couche par couche des features pour simuler le Micro-Bit;
+- Creer une scene pour une led
+- Creer un script qui permet de gere la couleur et la transparence baser sur un floatant
+- Creer un scene avec 25 scne de led
+- Creer un script qui permet de gere les 25 leds avec du code
+  - Une led a la fois
+  - avec un tableau de float
+  - avec un string
+  - avec un enumerateur des string par default
+- creer une animation pour une scene de bouttons ( il y en a 3 sur le micro bit)
+- fait un script pour changer d etat avec le bouttons
+- ajouter les trois bouttons a votre scene global du micro bit.
+- Il y a 3 bouttons qui une fois toucher produit un vrai ou un faut par capaciter
+  - logo
+  - pin 1 et 3
+- avec Godot XR Tool, vous pouvez snaper des objets.
+  - Creer un adaptateur 3D qui peut recevoir un snap du micro bit.
+  - Il recoit une reference vers la facade que vous avez creez.
+  - Cette adaptateur permet de s ajouter sur le micro bit.
+    - Lecture
+    - Ecriture
+    - Pin Rouge Noir Jaune
+      - Noir ground
+      - Rouge haut potentiel
+      - Jaune signal
+        - Un signal peu etre entrant ou sortant en electronique.
+  - En MicroPython par default, il n y a que 3 pin analogique les autres sont digital
+  - 
+
+To do:
+- accelerometer
+- gyroscope
+- temperature du jeu
+- son du jeu
+- batteries
+- pin
+- ~Bluetooth~
+- RT XT
+  - UDP
+  - Websocket
+- GDScript Sandbox pour coder avec votre MicroBit
+- 
+
 
 
 Download:
