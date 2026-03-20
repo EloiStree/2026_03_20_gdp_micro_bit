@@ -16,7 +16,14 @@ git clone https://github.com/EloiStree/2026_03_20_gdp_micro_bit.git addons/2026_
 > Workshop for Godot XR students: Try to recreate a MicroBit API in XR
 
 
-L exercie est simple. Vous avez un GLB du micro bit, ajouter couche par couche des features pour simuler le Micro-Bit;
+L exercie est simple.
+Vous avez un GLB du micro bit, ajouter couche par couche des features pour simuler le Micro-Bit.
+
+Arretez vous quand vous en avez mare.  
+Mais fixez vous le challenge de publier l application sur Itch.io  
+Dans une version portfolio finie.
+
+
 - Creer une scene pour une led
 - Creer un script qui permet de gere la couleur et la transparence baser sur un floatant
 - Creer un scene avec 25 scne de led
