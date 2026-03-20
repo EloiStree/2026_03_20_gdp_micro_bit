@@ -1,3 +1,16 @@
+Add to existing project  
+```
+git submodule add https://github.com/EloiStree/2026_03_20_gdp_micro_bit.git addons/2026_03_20_gdp_micro_bit
+```
+
+Add to temporary project  
+```
+git clone https://github.com/EloiStree/2026_03_20_gdp_micro_bit.git addons/2026_03_20_gdp_micro_bit
+```
+
+
+-------------
+
 # 2026_03_20_gdp_micro_bit
 Workshop for Godot XR students: Try to recreate a MicroBit API in XR
 
@@ -7,7 +20,10 @@ Free:
 - https://cults3d.com/en/3d-model/gadget/micro-bit-pequicraftminecraft
 
 Buy:
-- 
+
+[<img width="1272" height="623" alt="image" src="https://github.com/user-attachments/assets/77b3d3b4-f592-4fdf-9c48-8c1edbd8615e" />](https://sketchfab.com/3d-models/microbit-v2-759eb0f3db0d44d5a7ea80d4ae00580e)  
+[<img width="926" height="599" alt="image" src="https://github.com/user-attachments/assets/65bf2a22-e685-43e6-a0a4-6368b75d029f" />](https://sketchfab.com/3d-models/microbit-v2-759eb0f3db0d44d5a7ea80d4ae00580e)  
+
 
 
 Bonus:
