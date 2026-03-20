@@ -5,22 +5,22 @@
 
 # Godot Package: Micro bit
 
-> Workshop for Godot XR students: Try to recreate a Micro:bit API in XR
+> Workshop for Godot XR students: Try to recreate a Micro:bit API in XR  
 
 
 
-Dans le cadre de l’apprentissage de la programmation avec Godot et du développement d’applications XR orientées industrie (hors jeu vidéo),
-je vous propose un exercice « simple » :
+Dans le cadre de l’apprentissage de la programmation avec Godot et du développement d’applications XR orientées industrie (hors jeu vidéo),   
+je vous propose un exercice « simple » :    
 
-Vous avez un GLB du micro:bit.
-Ajoutez, couche par couche, des fonctionnalités pour le simuler.
+Vous avez un GLB du micro:bit.    
+Ajoutez, couche par couche, des fonctionnalités pour le simuler.    
 
 C’est une demande typique sur le marché de la VR, example:
 
 > Cet appareil à 10 000 $ dans un laboratoire prend 3 jours à utiliser et coûte 400 $ à chaque test.
 > Sans compter le temps d’un senior qui doit former la nouvelle recrue.
 > Permettre aux employés de s’entraîner sur la machine avant de l’utiliser réellement.
-> (C’est aussi généralement accompagné de télémétrie pour observer l’apprenant.)
+> (C’est aussi généralement accompagné de télémétrie pour observer l’apprenant.)   
 
 Nous allons pratiquer sur un appareil très connu : le Micro:bit.
 [<img width="628" height="271" alt="image" src="https://github.com/user-attachments/assets/e2037301-551d-49f7-ba7a-87f037affba0" /> ](https://python.microbit.org/v/3)
@@ -30,23 +30,22 @@ Download assets:
 
 
 Éditeurs :
-
 * [Python Editor](https://python.microbit.org/v/3)
 * [Microsoft Block Editor](https://makecode.microbit.org)
 
-Arrêtez-vous quand vous en avez marre,
-mais fixez-vous le challenge de publier l’application sur Itch.io
-dans une version portfolio finalisée avant la fin de l’atelier.
+Arrêtez-vous quand vous en avez marre,   
+mais fixez-vous le challenge de publier l’application sur Itch.io   
+dans une version portfolio finalisée avant la fin de l’atelier.    
 
 
-Apprenez à travailler par couches de MVP.
-Votre application doit être jouable en APK à chaque fin d’atelier.
+Apprenez à travailler par couches de MVP.   
+Votre application doit être jouable en APK à chaque fin d’atelier.    
 
-C'est un exercice à faire seul
-pour les parties faciles du projet.
+C'est un exercice à faire seul   
+pour les parties faciles du projet.   
 
-Vous devrez vous mettre en groupe pour les parties plus compliquées :
-température, batterie, gyroscope, accéléromètre, sandbox…
+Vous devrez vous mettre en groupe pour les parties plus compliquées :    
+température, batterie, gyroscope, accéléromètre, sandbox…   
 
 Sur ce, bonne chance. 🍀🫡
 Et que le code soit avec vous 🧨
