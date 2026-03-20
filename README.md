@@ -80,7 +80,7 @@ Il est en CC, je l’ai donc mis dans le projet en gardant la licence.
 [<img width="597" height="526" alt="image" src="https://github.com/user-attachments/assets/f49143e3-78e3-48b6-bae4-88fb7fd0e39c" />](https://sketchfab.com/3d-models/microbit-assemby-f0c6ec58eefc47afaab08d8de07e1158#download)     
 [Cult3D](https://cults3d.com/en/3d-model/gadget/micro-bit-pequicraftminecraft) - [SketchFab](https://sketchfab.com/3d-models/microbit-assemby-f0c6ec58eefc47afaab08d8de07e1158#download)    
 
-Et il y a une version faite en suivant de près son front par [@sitetechnofr](https://cults3d.com/en/users/sitetechnofr/3d-models) :     
+Et il y a une version payante faite à la sueur de son front par [@sitetechnofr](https://cults3d.com/en/users/sitetechnofr/3d-models) :      
 
 [<img width="1272" height="623" alt="image" src="https://github.com/user-attachments/assets/77b3d3b4-f592-4fdf-9c48-8c1edbd8615e" />](https://sketchfab.com/3d-models/microbit-v2-759eb0f3db0d44d5a7ea80d4ae00580e)   
 [<img width="926" height="599" alt="image" src="https://github.com/user-attachments/assets/65bf2a22-e685-43e6-a0a4-6368b75d029f" />](https://sketchfab.com/3d-models/microbit-v2-759eb0f3db0d44d5a7ea80d4ae00580e)       [<img width="1090" height="697" alt="image" src="https://github.com/user-attachments/assets/79e08459-a4f7-41b8-a450-8f13bd78e6ed" />](https://sketchfab.com/3d-models/microbit-v2-759eb0f3db0d44d5a7ea80d4ae00580e)     
@@ -100,8 +100,8 @@ Micro:bit fournit de beaux SVG et images du Micro:bit V2.
 
 ## Un moteur et des roues ?
 
-Si vous avez envie de faire un petit jeu de voiture avec votre prototype, ce moteur est l’un des plus achetés sur le web :
-
-[<img width="516" height="516" alt="image" src="https://github.com/user-attachments/assets/b0afd70e-f8aa-4999-b73f-7a944e3b7a9a" />](https://cults3d.com/en/3d-model/gadget/zdkderphb)   
-[https://cults3d.com/en/3d-model/gadget/zdkderphb](https://cults3d.com/en/3d-model/gadget/zdkderphb)   
+Si vous avez envie de faire un petit jeu de voiture avec votre prototype, ce moteur est l’un des plus achetés sur le web :   
+  
+[<img width="516" height="516" alt="image" src="https://github.com/user-attachments/assets/b0afd70e-f8aa-4999-b73f-7a944e3b7a9a" />](https://cults3d.com/en/3d-model/gadget/zdkderphb)     
+[https://cults3d.com/en/3d-model/gadget/zdkderphb](https://cults3d.com/en/3d-model/gadget/zdkderphb)     
 
